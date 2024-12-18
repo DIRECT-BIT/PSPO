@@ -2,7 +2,7 @@
 <p align="center"> <img src="images/cover.jpg" style="width: 75%;" id="title-icon">       </p>
 
 <p align="center">
-  📄 <a href="https://aclanthology.org/2024.findings-emnlp.495.pdf" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/abs/2411.11681" target="_blank">Paper</a> &nbsp; | &nbsp;
   🎰 <a href="https://huggingface.co/codelyh/pspo/tree/main" target="_blank">Datasets</a> &nbsp;| &nbsp;
   👹 <a href="https://huggingface.co/codelyh/pspo/tree/main" target="_blank">Models</a> &nbsp;
 </p>
